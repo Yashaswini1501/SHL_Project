@@ -1,0 +1,26 @@
+[
+    {
+        "name": "OPQ32r",
+        "url": "https://www.shl.com",
+        "description": "Personality assessment for workplace behavior",
+        "test_type": "P"
+    },
+    {
+        "name": "Java Test",
+        "url": "https://www.shl.com",
+        "description": "Java programming assessment for developers",
+        "test_type": "K"
+    },
+    {
+        "name": "GSA",
+        "url": "https://www.shl.com",
+        "description": "General cognitive ability assessment",
+        "test_type": "A"
+    },
+    {
+        "name": "Python Coding Test",
+        "url": "https://www.shl.com",
+        "description": "Python programming assessment for backend developers",
+        "test_type": "K"
+}
+]
