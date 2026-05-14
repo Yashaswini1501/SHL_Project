@@ -13,11 +13,12 @@ assessments = []
 cards = soup.find_all("a")
 
 for card in cards:
-    text = card.get_text(strip=True)
 
+    text = card.get_text(strip=True)
     href = card.get("href")
 
     if text and href:
+
         if "/products/" in href:
 
             assessment = {
